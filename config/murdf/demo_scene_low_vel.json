@@ -1,0 +1,11 @@
+{
+   "robots" : [
+      {
+         "model" : "../../config/urdf/kuka_six_low_vel.urdf",
+         "pos" : [ 0, 0, 0 ],
+         "rpy" : [ 0, 0, 0 ],
+         "scale" : [ 1, 1, 1 ]
+      }
+   ],
+   "name" : "saved scene"
+}

@@ -1,0 +1,114 @@
+[
+   {
+      "id" : 0,
+      "initialPathLength" : 59.32344594419606,
+      "method" : "median_1_1",
+      "optimizedPathLength" : 55.558220126082603,
+      "time" : 11.407
+   },
+   {
+      "id" : 1,
+      "initialPathLength" : 51.406670468703233,
+      "method" : "median_1_1",
+      "optimizedPathLength" : 48.47392617832395,
+      "time" : 61.405000000000001
+   },
+   {
+      "id" : 2,
+      "initialPathLength" : 45.930904664284043,
+      "method" : "median_1_1",
+      "optimizedPathLength" : 42.777258156786772,
+      "time" : 71.415000000000006
+   },
+   {
+      "id" : 3,
+      "initialPathLength" : 56.247076935639498,
+      "method" : "median_1_1",
+      "optimizedPathLength" : 52.954213292083665,
+      "time" : 68.975999999999999
+   },
+   {
+      "id" : 4,
+      "initialPathLength" : 12.580738574266652,
+      "method" : "median_1_1",
+      "optimizedPathLength" : 12.580738574266652,
+      "time" : 0.11600000000000001
+   },
+   {
+      "id" : 5,
+      "initialPathLength" : 59.32344594419606,
+      "method" : "median_1_3",
+      "optimizedPathLength" : 51.029285860541677,
+      "time" : 33.643999999999998
+   },
+   {
+      "id" : 6,
+      "initialPathLength" : 51.406670468703233,
+      "method" : "median_1_3",
+      "optimizedPathLength" : 44.738189214068356,
+      "time" : 174.30600000000001
+   },
+   {
+      "id" : 7,
+      "initialPathLength" : 45.930904664284043,
+      "method" : "median_1_3",
+      "optimizedPathLength" : 39.124156644720117,
+      "time" : 220.131
+   },
+   {
+      "id" : 8,
+      "initialPathLength" : 56.247076935639498,
+      "method" : "median_1_3",
+      "optimizedPathLength" : 48.776454511716295,
+      "time" : 216.84299999999999
+   },
+   {
+      "id" : 9,
+      "initialPathLength" : 12.580738574266652,
+      "method" : "median_1_3",
+      "optimizedPathLength" : 12.580738574266652,
+      "time" : 0.36399999999999999
+   },
+   {
+      "id" : 10,
+      "initialPathLength" : 59.32344594419606,
+      "method" : "median_1_5",
+      "optimizedPathLength" : 48.930668204548425,
+      "time" : 59.485999999999997
+   },
+   {
+      "id" : 11,
+      "initialPathLength" : 51.406670468703233,
+      "method" : "median_1_5",
+      "optimizedPathLength" : 42.850216854725353,
+      "time" : 314.31700000000001
+   },
+   {
+      "id" : 12,
+      "initialPathLength" : 45.930904664284043,
+      "method" : "median_1_5",
+      "optimizedPathLength" : 37.382868355215059,
+      "time" : 382.91800000000001
+   },
+   {
+      "id" : 13,
+      "initialPathLength" : 56.247076935639498,
+      "method" : "median_1_5",
+      "optimizedPathLength" : 46.688789775280888,
+      "time" : 393.71899999999999
+   },
+   {
+      "id" : 14,
+      "initialPathLength" : 12.580738574266652,
+      "method" : "median_1_5",
+      "optimizedPathLength" : 12.580738574266652,
+      "time" : 0.72999999999999998
+   },
+   {
+      "id" : 15,
+      "initialPathLength" : 59.32344594419606,
+      "method" : "median_1_7",
+      "optimizedPathLength" : 47.488062544551937,
+      "time" : 87.980999999999995
+   }
+]

@@ -1,0 +1,160 @@
+{
+  "name": "Kuka KR-10-six",
+  "joints": [
+    {
+      "name": "base",
+      "theta": 0.0,
+      "d": 0.4,
+      "a": 0.0,
+      "alpha": 0.0,
+      "link": "base_link",
+      "fixed": true
+    },
+    {
+      "name": "joint-1",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.025,
+      "alpha": 90.0,
+      "link": "link_1",
+      "fixed": false
+    },
+    {
+      "name": "v-joint-2",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.0,
+      "alpha": -90.0,
+      "link": "",
+      "fixed": false
+    },
+    {
+      "name": "joint-2",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.56,
+      "alpha": 90.0,
+      "link": "link_2",
+      "fixed": true
+    },
+    {
+      "name": "v-joint-3",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.0,
+      "alpha": -90.0,
+      "link": "",
+      "fixed": false
+    },
+    {
+      "name": "joint-3",
+      "theta": 90.0,
+      "d": 0.035,
+      "a": 0.0,
+      "alpha": 90.0,
+      "link": "link_3",
+      "fixed": true
+    },
+    {
+      "name": "v-joint-4",
+      "theta": 90.0,
+      "d": 0.0,
+      "a": 0.0,
+      "alpha": 90.0,
+      "link": "",
+      "fixed": false
+    },
+    {
+      "name": "v-joint-4-2",
+      "theta": 90.0,
+      "d": 0.0,
+      "a": 0.0,
+      "alpha": 90.0,
+      "link": "",
+      "fixed": true
+    },
+    {
+      "name": "joint-4",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.515,
+      "alpha": 90.0,
+      "link": "link_4",
+      "fixed": true
+    },
+    {
+      "name": "v-joint-5",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.0,
+      "link": "",
+      "alpha": -90.0,
+      "fixed": false
+    },
+    {
+      "name": "joint-5",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.080,
+      "link": "link_5",
+      "alpha": 90.0,
+      "fixed": true
+    },
+    {
+      "name": "joint-6",
+      "theta": 0.0,
+      "d": 0.0,
+      "a": 0.0,
+      "link": "",
+      "alpha": -90.0,
+      "fixed": false
+    },
+    {
+      "name": "joint-6",
+      "theta": 90.0,
+      "d": 0.0,
+      "a": 0.0,
+      "link": "link_6",
+      "alpha": 0.0,
+      "fixed": true
+    }
+  ],
+  "jointInitValues": [
+    74.57,
+    -135.69,
+    -23.8,
+    -46.52,
+    -39.39,
+    39.72
+  ],
+  "links": [
+    {
+      "model": "../../models/kuka_six/base_link.stl",
+      "name": "base_link"
+    },
+    {
+      "model": "../../models/kuka_six/link_1.stl",
+      "name": "link_1"
+    },
+    {
+      "model": "../../models/kuka_six/link_2.stl",
+      "name": "link_2"
+    },
+    {
+      "model": "../../models/kuka_six/link_3.stl",
+      "name": "link_3"
+    },
+    {
+      "model": "../../models/kuka_six/link_4.stl",
+      "name": "link_4"
+    },
+    {
+      "model": "../../models/kuka_six/link_5.stl",
+      "name": "link_5"
+    },
+    {
+      "model": "../../models/kuka_six/link_6.stl",
+      "name": "link_6"
+    }
+  ]
+}
