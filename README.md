@@ -14,28 +14,12 @@ sudo apt-get update
 sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev libeigen3-dev libjsoncpp-dev libboost-all-dev liburdfdom-dev qt5-default libtbb-dev libtinyxml-dev 
 ```
 
-
-## Коллайдеры
-
-- `solid3` - копия библиотеки [solid3](https://github.com/dtecta/solid3)  для
-проверки коллизий двух полигональных моделей
-- `collider` - библиотека-обёртка над `solid3` 
-
--ltbb 
-
-
-
 ## Документация
 
 ```
 sudo apt update
 sudo apt install doxygen doxygen-gui doxygen-latex
 ```
-
-https://opensource.com/article/22/5/document-source-code-doxygen-linux
-
-https://www.jetbrains.com/help/clion/creating-and-viewing-doxygen-documentation.html#render-docs
-
 
 `Doxygen` использует `Doxyfile` в корне проекта,
 чтобы его сгенерировать заново, нужно запустить команду 
